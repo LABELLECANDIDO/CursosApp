@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Courses</string>
+    <string name="architecture">Arquitetura</string>
+    <string name="automotive">Automotivo</string>
+    <string name="biology">Biologia</string>
+    <string name="crafts">Artesanato</string>
+    <string name="business">Negócios</string>
+    <string name="culinary">Culinária</string>
+    <string name="design">Design</string>
+    <string name="ecology">Ecologia</string>
+    <string name="engineering">Engenharia</string>
+    <string name="fashion">Moda</string>
+    <string name="finance">Finanças</string>
+    <string name="film">Cinema</string>
+    <string name="gaming">Jogos</string>
+    <string name="geology">Geologia</string>
+    <string name="drawing">Desenho</string>
+    <string name="history">História</string>
+    <string name="journalism">Jornalismo</string>
+    <string name="law">Direito</string>
+    <string name="lifestyle">Estilo de Vida</string>
+    <string name="music">Música</string>
+    <string name="painting">Pintura</string>
+    <string name="photography">Fotografia</string>
+    <string name="physics">Física</string>
+    <string name="tech">Tecnologia</string>
+
+</resources>
